@@ -1,8 +1,3 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-24.04",
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
-  },
-  "remoteUser": "vscode",
-  "overrideCommand": false
+  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-24.04"
 }
